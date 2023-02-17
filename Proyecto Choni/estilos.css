@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,700;1,100;1,300;1,900&display=swap');
+
+*{ box-sizing: border-box;
+width: 100%; }
+
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    height: auto;
+}
+nav{ background-color: #C2DED1; 
+    height: 60px;}
+
+header {
+        font-weight: 400px; 
+        font-style: regular;
+        background-color: #ECE5C7;
+        margin: 0%;}
+    #presentacion text-align: center;
+
+main {background-color:#CDC2AE; 
+    height: auto;}
+
+a {color:blueviolet; text-decoration: none;}
+
+a:hover{text-decoration:  underline; color: rgb(7, 55, 97);}
+div, ul, nav{ margin:0; padding: 0;}
+footer {
+    background-color: #354259;
+    height: 450px;
+}
+h1 {text-align: center; font-style: italic; margin: 0%; }
+h2{ font: weight 700px;}
+p{font-weight: 100;}
+section {
+    width: 50%;
+    border: solid #354259;
+    margin: auto;
+}
+img{
+    width: 350px; height: auto;
+}
+
+div { width: 30%;}
+
+/*  Estilos Contactos*/
+
+form {
+    width: 25%;
+}
